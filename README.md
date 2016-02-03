@@ -6,3 +6,9 @@ This repository was created to simply test out the GitHub Essentials: Repositori
 
 ##Use:
 It does not have any use.
+
+##Completed items:
+*Repositories
+*Branches
+*Commits
+*Issues
