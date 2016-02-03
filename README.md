@@ -10,5 +10,5 @@ It does not have any use.
 ##Completed items:
 *Repositories
 *Branches
-*Commits
+*Commits - with comments
 *Issues
